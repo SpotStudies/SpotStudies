@@ -1,10 +1,9 @@
-- 👋 Hi, I’m SpotStudies
+# 👋 Hi, I’m SpotStudies
 - 👀 I have a Youtube Channel Named Spot Studies.
-- 🌱 I’m currently learning HTML, CSS and Python. I know Javascript
-- Also I develope Discord Bots!
-- I am also one of the developers of Wiz bot.
+- 🌱 I’m currently learning C++ and Python. My aknowledgement is in HTML, CSS and Javascript.
+- 😎 My hobby is to make Discord Bots!
 
-![](https://visitor-badge.laobi.icu/badge?page_id=SpotStudies.SpotStudies)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SpotStudies&label=Profile%20views&color=6b21ff&style=vision-friendly-dark" alt="Spot_Studies#5695" /> </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spotstudies&theme=vision-friendly-dark)
 
