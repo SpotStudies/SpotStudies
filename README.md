@@ -5,8 +5,14 @@
 - I am also one of the developers of Wiz bot.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spotstudies&theme=tokyonight)
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  Tools That I Use!
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://pbs.twimg.com/profile_images/1220067947798024192/30eZhfxx_400x400.png" alt="Stack Overflow" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
