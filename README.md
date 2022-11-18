@@ -5,10 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SpotStudies&label=Profile%20views&color=6b21ff&style=vision-friendly-dark" alt="Spot_Studies#5695" /> </p>
 
+
+## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spotstudies&theme=vision-friendly-dark)
 
+
+## Top Laguages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpotStudies&theme=vision-friendly-dark)
 
+
+## Discord Status
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=866696195630825522)
 
 <hr>
