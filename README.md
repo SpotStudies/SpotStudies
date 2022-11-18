@@ -4,11 +4,11 @@
 - Also I develope Discord Bots!
 - I am also one of the developers of Wiz bot.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spotstudies&theme=vision-friendly-dark)
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=SpotStudies.SpotStudies)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spotstudies&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpotStudies&theme=vision-friendly-dark)
 
 <hr>
 
