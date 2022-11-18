@@ -4,4 +4,4 @@
 - Also I develope Discord Bots!
 - I am also one of the developers of Wiz bot.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spotstudies&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spotstudies&theme=tokyonight)
