@@ -13,8 +13,8 @@
 
 <hr>
 
+## Tools That I Use! 
 <p align="center">
-  ## Tools That I Use! <br>
   <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 
