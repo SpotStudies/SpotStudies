@@ -10,6 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpotStudies&theme=vision-friendly-dark)
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<your discord id>)
+
 <hr>
 
 <p align="center">
